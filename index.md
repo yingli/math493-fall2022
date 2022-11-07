@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/college_medium.png">
 
 
 # Project Name
