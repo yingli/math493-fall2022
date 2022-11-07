@@ -5,9 +5,9 @@ permalink:        pretty
 
 
 # Setup
-title:            Data Science Life Cycle Group Project
+title:            Predicting merchant churn in traditional FMCG supply chain
 tagline:          ''
-description:      'The group project on practicing data science life cycle' 
+description:      'A group project of Math-493 for practicing data science life cycle' 
 url:              "https://yingli.github.io"
 baseurl:          "/math493-fall2022"
 
